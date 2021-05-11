@@ -1,6 +1,7 @@
 # User-Interface-specification-doc
 
-*The page displays already stored users on the database, if not hiden*
+*The page displays already stored users on the database, if not hidden*
+
 *The UI Specification must have a button "New User" to register new user*
 
 *The UI must have a "Hide Disabled User" checkbox to hide users that "Enabled" checkbox where not checked for them*
